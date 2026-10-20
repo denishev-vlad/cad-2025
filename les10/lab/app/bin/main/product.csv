@@ -1,0 +1,4 @@
+id,name,description,category_id,price,stock_quantity,image_url,created_at,updated_at
+1,Корм для собак,Полнорационный корм,1,1500.00,50,http://example.com/1.jpg,2025-01-15T10:00:00,2025-02-01T10:00:00
+2,Мячик для кошек,Мягкий мячик,2,300.00,200,http://example.com/2.jpg,2025-01-16T10:00:00,2025-02-01T10:00:00
+3,Поводок,Автоматический поводок,3,1300.00,25,http://example.com/3.jpg,2025-01-24T10:00:00,2025-02-01T10:00:00
