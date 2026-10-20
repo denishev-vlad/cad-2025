@@ -23,7 +23,7 @@
 
 **Результат тестирования REST API (Postman):**
 
-![Postman Test](images/postman.png)
+![Postman Test](images/postman2.png)
 
 **Диаграмма Mermaid:**
 
